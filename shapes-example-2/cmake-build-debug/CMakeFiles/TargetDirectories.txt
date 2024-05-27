@@ -1,0 +1,3 @@
+C:/Users/yahya/OneDrive/Documents/GitHub/shapes-example-2/cmake-build-debug/CMakeFiles/shapes_example.dir
+C:/Users/yahya/OneDrive/Documents/GitHub/shapes-example-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yahya/OneDrive/Documents/GitHub/shapes-example-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
